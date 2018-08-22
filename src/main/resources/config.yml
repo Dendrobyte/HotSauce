@@ -1,0 +1,5 @@
+# How long of a trail do you want a player's fire to go? (whole numbers only)
+trail-length: 12
+
+# How long should someone be allowed to keep hotsauce enabled? (in seconds, whole numbers only)
+hotsauce-duration: 20

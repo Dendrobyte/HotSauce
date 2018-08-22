@@ -1,0 +1,16 @@
+name: HotSauce
+version: 1.0
+author: Mobkinz78
+api-version: 1.13
+main: com.bytekangaroo.hotsauce.Main
+description: Set a trail of fire behind you! (I really don't recommend this plugin...)
+commands:
+  hotsauce:
+    usage: /<command> help
+    description: The core hotsauce command
+    aliases: [hc, sauce]
+permissions:
+  hotsauce.use:
+    description: Allows a player to use the hotsauce command
+  hotsauce.reload:
+    description: Allows a player to reload the configuration
